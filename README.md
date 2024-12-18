@@ -77,7 +77,7 @@ git clone https://github.com/AkramKhattab/Bakery.git
   If you have any questions or feedback, please reach out:<br><br>
   <strong>Name</strong>: Akram Khattab<br>
   <strong>Email</strong>: <a href="mailto:AkramMKhattab@gmail.com">AkramMKhattab@gmail.com</a><br>
-  <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/akram-khattab">linkedin.com/in/akram-khattabb</a><br>
+  <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/akram-khattab">linkedin.com/in/akram-khattab</a><br>
   <strong>GitHub</strong>: <a href="https://github.com/AkramKhattab">github.com/AkramKhattab</a>
 </p>
 
